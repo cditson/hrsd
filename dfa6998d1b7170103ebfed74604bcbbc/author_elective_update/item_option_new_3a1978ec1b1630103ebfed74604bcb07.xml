@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="DELETE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Bulk Case Create">7a09f1a71bc230103ebfed74604bcbcc</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
+        <example_text/>
+        <field/>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <hidden>false</hidden>
+        <include_none>false</include_none>
+        <instructions/>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table>sn_hr_core_case</lookup_table>
+        <lookup_unique>true</lookup_unique>
+        <lookup_value>sys_class_name</lookup_value>
+        <macro/>
+        <macroponent/>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>case_type</name>
+        <order>150</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <published_ref/>
+        <question_text>Case Type</question_text>
+        <read_only>false</read_only>
+        <read_roles/>
+        <read_script/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>sn_hr_core_case</record_producer_table>
+        <reference>task</reference>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
+        <save_script/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 13:24:20</sys_created_on>
+        <sys_id>3a1978ec1b1630103ebfed74604bcb07</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Case Type</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>item_option_new_3a1978ec1b1630103ebfed74604bcb07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 14:04:23</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>18</type>
+        <ui_page/>
+        <unique>false</unique>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
+        <validate_regex/>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="DELETE" query="documentkey=3a1978ec1b1630103ebfed74604bcb07"/>
+    <fx_price action="DELETE" query="id=3a1978ec1b1630103ebfed74604bcb07"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>price_if_checked</field>
+        <id>3a1978ec1b1630103ebfed74604bcb07</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 13:24:21</sys_created_on>
+        <sys_id>6f2af4ec1b1630103ebfed74604bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 13:24:21</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>rec_price_if_checked</field>
+        <id>3a1978ec1b1630103ebfed74604bcb07</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 13:24:21</sys_created_on>
+        <sys_id>ab2af4ec1b1630103ebfed74604bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 13:24:21</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</application>
+        <file_path/>
+        <instance_id>79e95379db8c70907527d7c8f4961906</instance_id>
+        <instance_name>dev115458</instance_name>
+        <name>item_option_new_3a1978ec1b1630103ebfed74604bcb07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Bulk Case Create">7a09f1a71bc230103ebfed74604bcbcc</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table>sn_hr_core_case</lookup_table><lookup_unique>true</lookup_unique><lookup_value>sys_class_name</lookup_value><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>case_type</name><order>150</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Case Type</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_core_case</record_producer_table><reference>task</reference><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-27 13:24:20</sys_created_on><sys_id>3a1978ec1b1630103ebfed74604bcb07</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Case Type</sys_name><sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package><sys_policy/><sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope><sys_update_name>item_option_new_3a1978ec1b1630103ebfed74604bcb07</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-27 14:04:23</sys_updated_on><table/><tooltip/><type>18</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>advanced</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=3a1978ec1b1630103ebfed74604bcb07"/><fx_price action="delete_multiple" query="id=3a1978ec1b1630103ebfed74604bcb07"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="GBP">GBP</currency><field>price_if_checked</field><id>3a1978ec1b1630103ebfed74604bcb07</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-27 13:24:21</sys_created_on><sys_id>6f2af4ec1b1630103ebfed74604bcb6d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-27 13:24:21</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="GBP">GBP</currency><field>rec_price_if_checked</field><id>3a1978ec1b1630103ebfed74604bcb07</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-27 13:24:21</sys_created_on><sys_id>ab2af4ec1b1630103ebfed74604bcb6c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-27 13:24:21</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>871331534</payload_hash>
+        <record_name>Case Type</record_name>
+        <reverted_from/>
+        <source>de098bb71b4230103ebfed74604bcb83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 14:04:23</sys_created_on>
+        <sys_id>865309a81b5630103ebfed74604bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b87ed09a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 14:04:23</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>025309a8345630108c031bb7b16d1eb8</update_guid>
+        <update_guid_history>025309a8345630108c031bb7b16d1eb8:871331534,703305a8f5563010406bca5c356231e1:-602291766,bd1305a8735630109fb95d75c0e9cceb:-1164985881,f0a2cd687c563010fbd47d497fd0379b:1567663459,bb0d3024f55630108eacb30c041453d3:-2121974277,0f5b74ecb016301066916c9106b92f1b:363304326,914bfc6036563010de46ae1fed0ae71c:456408068,e72ab82068563010a53d798e57bcaf0d:-1941650387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Case Type">271f85e41b9630103ebfed74604bcbf1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 14:55:49</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
+        <sys_id>06af34f77f4d4bd99fd2c6ea3a103531</sys_id>
+        <sys_metadata>3a1978ec1b1630103ebfed74604bcb07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Type</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_parent display_value="Bulk Case Create">7a09f1a71bc230103ebfed74604bcbcc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_scope_delete display_value="">187e1e2a55b34c92bda006dec3aa4f44</sys_scope_delete>
+        <sys_update_name>item_option_new_3a1978ec1b1630103ebfed74604bcb07</sys_update_name>
+        <sys_update_version display_value="item_option_new_3a1978ec1b1630103ebfed74604bcb07">865309a81b5630103ebfed74604bcbb8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 14:55:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

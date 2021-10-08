@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="DELETE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry/>
+        <description/>
+        <global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="HR Search Config">3f881c3cb7c13300c6ac702e7e11a972</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>HR Workspace</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 10:16:42</sys_created_on>
+        <sys_id>e2db341e1ba230103ebfed74604bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Workspace</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>sys_aw_master_config_e2db341e1ba230103ebfed74604bcbb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 10:16:42</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>hrw</workspace_url>
+    </sys_aw_master_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</application>
+        <file_path/>
+        <instance_id>79e95379db8c70907527d7c8f4961906</instance_id>
+        <instance_name>dev115458</instance_name>
+        <name>sys_aw_master_config_e2db341e1ba230103ebfed74604bcbb9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color/><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry/><description/><global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data display_value="HR Search Config">3f881c3cb7c13300c6ac702e7e11a972</global_search_data><hide_search_results_count>false</hide_search_results_count><name>HR Workspace</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color/><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-14 10:16:42</sys_created_on><sys_id>e2db341e1ba230103ebfed74604bcbb9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Workspace</sys_name><sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package><sys_policy/><sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope><sys_update_name>sys_aw_master_config_e2db341e1ba230103ebfed74604bcbb9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-14 10:16:42</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo/><workspace_url>hrw</workspace_url></sys_aw_master_config></record_update>]]></payload>
+        <payload_hash>929879222</payload_hash>
+        <record_name>HR Workspace</record_name>
+        <reverted_from/>
+        <source>de098bb71b4230103ebfed74604bcb83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 10:17:46</sys_created_on>
+        <sys_id>8a1cb45e1ba230103ebfed74604bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17be3d008800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 10:17:46</sys_updated_on>
+        <type>Workspace</type>
+        <update_guid>eedbb05e25a2301039a77d8726c15884</update_guid>
+        <update_guid_history>eedbb05e25a2301039a77d8726c15884:1831725640,eedbb05e25a2301039a77d8726c15884:1831725640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 10:17:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_master_config">sys_aw_master_config</sys_db_object>
+        <sys_id>09470715812641c9a45f393c38c46821</sys_id>
+        <sys_metadata>e2db341e1ba230103ebfed74604bcbb9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Workspace</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_scope_delete display_value="">187e1e2a55b34c92bda006dec3aa4f44</sys_scope_delete>
+        <sys_update_name>sys_aw_master_config_e2db341e1ba230103ebfed74604bcbb9</sys_update_name>
+        <sys_update_version display_value="sys_aw_master_config_e2db341e1ba230103ebfed74604bcbb9">8a1cb45e1ba230103ebfed74604bcbf4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 10:17:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

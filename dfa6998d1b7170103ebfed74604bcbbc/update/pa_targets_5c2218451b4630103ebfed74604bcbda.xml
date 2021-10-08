@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <any_element>false</any_element>
+        <breakdown/>
+        <breakdown_level2/>
+        <color_scheme/>
+        <display_name>Number of open cases</display_name>
+        <element/>
+        <element_level2/>
+        <indicator display_value="Number of open cases">e6774f520b63320097f5064d37673aed</indicator>
+        <owner/>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 13:30:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c2218451b4630103ebfed74604bcbda</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>e6774f520b63320097f5064d37673aed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>pa_targets_5c2218451b4630103ebfed74604bcbda</sys_update_name>
+        <sys_updated_by>tammie.schwartzwalde</sys_updated_by>
+        <sys_updated_on>2021-08-16 13:54:37</sys_updated_on>
+        <values_modified_at>2021-08-16 13:54:37</values_modified_at>
+    </pa_targets>
+</record_update>

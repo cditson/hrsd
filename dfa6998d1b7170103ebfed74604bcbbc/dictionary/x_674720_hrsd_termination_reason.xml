@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Termination Reason" max_length="40" name="x_674720_hrsd_termination_reason" sizeclass="1" type="collection">
+        <element label="Name" max_length="60" name="name" type="string"/>
+        <element label="Value" max_length="60" name="value" type="string"/>
+    </element>
+</database>

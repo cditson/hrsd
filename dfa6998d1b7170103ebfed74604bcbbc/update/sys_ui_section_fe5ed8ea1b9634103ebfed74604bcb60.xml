@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fe5ed8ea1b9634103ebfed74604bcb60" sys_domain="global" table="x_674720_hrsd_choice_list" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>325ed8ea1b9634103ebfed74604bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_table</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>ba5ed8ea1b9634103ebfed74604bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>matcher_table</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>325ed8ea1b9634103ebfed74604bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>b65ed8ea1b9634103ebfed74604bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>3e5ed8ea1b9634103ebfed74604bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>b25ed8ea1b9634103ebfed74604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_on_form_change</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>3a5ed8ea1b9634103ebfed74604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_on_insert</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>ba5edcea1b9634103ebfed74604bcb7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_on_update</element>
+            <position>81</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>325edcea1b9634103ebfed74604bcb7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>91</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_id>b65edcea1b9634103ebfed74604bcb7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_674720_hrsd_choice_list" sys_domain="global" view="Default view">fe5ed8ea1b9634103ebfed74604bcb60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_674720_hrsd_choice_list</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 16:30:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe5ed8ea1b9634103ebfed74604bcb60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_674720_hrsd_choice_list</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+            <sys_update_name>sys_ui_section_fe5ed8ea1b9634103ebfed74604bcb60</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-02 16:30:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

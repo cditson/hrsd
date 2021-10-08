@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_674720_hrsd_scoped_field" label="Scoped field" language="en" table="sn_hr_core_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_674720_hrsd_scoped_field</element>
+            <help/>
+            <hint/>
+            <label>Scoped field</label>
+            <language>en</language>
+            <name>sn_hr_core_case</name>
+            <plural>Scoped fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-30 14:09:14</sys_created_on>
+            <sys_id>a88a08a71b7230103ebfed74604bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Scoped field</sys_name>
+            <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+            <sys_update_name>sys_documentation_sn_hr_core_case_x_674720_hrsd_scoped_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-30 14:09:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

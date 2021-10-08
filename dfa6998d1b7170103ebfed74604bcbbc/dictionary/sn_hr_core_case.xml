@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="display_image=opened_for,email_client=true,live_feed=true,use_document_viewer=true" audit="true" extends="task" label="Ticket RH" max_length="40" name="sn_hr_core_case" sizeclass="117" text_index="true" type="collection">
+        <element label="Scoped field" max_length="120" name="x_674720_hrsd_scoped_field" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service_activity">
+    <sn_hr_core_service_activity action="DELETE">
+        <activity_type>task</activity_type>
+        <approval_accept_option>anyone</approval_accept_option>
+        <approval_options/>
+        <approval_reject_option>resubmit</approval_reject_option>
+        <approver_groups/>
+        <approver_users/>
+        <child_hr_service/>
+        <child_template display_value="attach">e069aca61bd634103ebfed74604bcb77</child_template>
+        <missing_all_approvers>substitute</missing_all_approvers>
+        <missing_some_approvers>skip</missing_some_approvers>
+        <name>attach</name>
+        <order>1</order>
+        <parent_service display_value="Medical Leave">93bab10c1ba230103ebfed74604bcbec</parent_service>
+        <sys_class_name>sn_hr_core_service_activity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 15:11:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f03cbdcc1ba230103ebfed74604bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attach</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>sn_hr_core_service_activity_f03cbdcc1ba230103ebfed74604bcb14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 15:11:47</sys_updated_on>
+    </sn_hr_core_service_activity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</application>
+        <file_path/>
+        <instance_id>79e95379db8c70907527d7c8f4961906</instance_id>
+        <instance_name>dev115458</instance_name>
+        <name>sn_hr_core_service_activity_f03cbdcc1ba230103ebfed74604bcb14</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service_activity"><sn_hr_core_service_activity action="INSERT_OR_UPDATE"><activity_type>task</activity_type><approval_accept_option>anyone</approval_accept_option><approval_options/><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><child_hr_service/><child_template display_value="attach">e069aca61bd634103ebfed74604bcb77</child_template><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><name>attach</name><order>1</order><parent_service display_value="Medical Leave">93bab10c1ba230103ebfed74604bcbec</parent_service><sys_class_name>sn_hr_core_service_activity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-07 15:11:47</sys_created_on><sys_domain>global</sys_domain><sys_id>f03cbdcc1ba230103ebfed74604bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_name>attach</sys_name><sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package><sys_policy/><sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope><sys_update_name>sn_hr_core_service_activity_f03cbdcc1ba230103ebfed74604bcb14</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-07 15:11:47</sys_updated_on></sn_hr_core_service_activity></record_update>]]></payload>
+        <payload_hash>-769941418</payload_hash>
+        <record_name>attach</record_name>
+        <reverted_from/>
+        <source>de098bb71b4230103ebfed74604bcb83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 15:11:47</sys_created_on>
+        <sys_id>6c4cbdcc1ba230103ebfed74604bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bc0d0affb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 15:11:47</sys_updated_on>
+        <type>Service Activity</type>
+        <update_guid>a44cbdcc72a230105b2705579268941c</update_guid>
+        <update_guid_history>a44cbdcc72a230105b2705579268941c:-769941418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="attach">787c9e581be230103ebfed74604bcb8b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-08 12:10:54</sys_created_on>
+        <sys_db_object display_value="" name="sn_hr_core_service_activity">sn_hr_core_service_activity</sys_db_object>
+        <sys_id>046daaa141bc4ee68ab34246e4039621</sys_id>
+        <sys_metadata>f03cbdcc1ba230103ebfed74604bcb14</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attach</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_scope_delete display_value="">187e1e2a55b34c92bda006dec3aa4f44</sys_scope_delete>
+        <sys_update_name>sn_hr_core_service_activity_f03cbdcc1ba230103ebfed74604bcb14</sys_update_name>
+        <sys_update_version display_value="sn_hr_core_service_activity_f03cbdcc1ba230103ebfed74604bcb14">6c4cbdcc1ba230103ebfed74604bcb1c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-08 12:10:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

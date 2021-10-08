@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Bulk Case Create">7a09f1a71bc230103ebfed74604bcbcc</sc_cat_item>
+        <sc_category display_value="General">abc78de49f331200d9011977677fcfb2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 15:25:39</sys_created_on>
+        <sys_id>5729fd671bc230103ebfed74604bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General.Bulk Case Create</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>sc_cat_item_category_5729fd671bc230103ebfed74604bcbd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 15:25:39</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>Open Bulk cases (HR Case)</display>
+        <filter table="sn_hr_core_case">variables.453b92861b9eb0103ebfed74604bcbd9=test<item endquery="false" field="variables.453b92861b9eb0103ebfed74604bcbd9" goto="false" newquery="false" operator="=" or="false" value="test"/>
+        </filter>
+        <name>Open Bulk cases</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-09 12:59:31</sys_created_on>
+        <sys_id>bad073a81ba230103ebfed74604bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Bulk cases (HR Case)</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>sys_report_source_bad073a81ba230103ebfed74604bcb4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-09 12:59:31</sys_updated_on>
+        <table>sn_hr_core_case</table>
+    </sys_report_source>
+</record_update>

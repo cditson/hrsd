@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <rca_type/>
+        <source/>
+        <source_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-27 15:44:00</sys_created_on>
+        <sys_id>992ad1e01bd630103ebfed74604bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dfa6998d1b7170103ebfed74604bcbbc</sys_name>
+        <sys_package display_value="HRSD" source="x_674720_hrsd">dfa6998d1b7170103ebfed74604bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRSD">dfa6998d1b7170103ebfed74604bcbbc</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_992ad1e01bd630103ebfed74604bcb87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-27 15:44:00</sys_updated_on>
+        <target name="sys_data_source" target_table="sys_db_object">245d38876d2220100acb70b35343307b</target>
+        <target_scope display_value="Global">global</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>
